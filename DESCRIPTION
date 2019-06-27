@@ -1,0 +1,14 @@
+Package: rigopractice
+Type: Package
+Title: Practicing Go Function in R Package
+Version: 0.1.0
+Author: ymattu
+Maintainer: ymattu <mattu.yuya@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Authors@R: person('Yuya', 'Matsumura', email='mattu.yuya@gmail.com', role=c('aut', 'cre'))
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
